@@ -24,22 +24,10 @@
       "dob": "2002-05-02T18:30:00.000Z",
       "gender": "male",
       "company": "Google",
-      "education": "Graduate",
+      "education": "Post Graduate",
       "experence": 4,
       "package": 1200000,
       "id": 1
-    },
-    {
-      "firstName": "Test",
-      "lastName": "User",
-      "email": "test@email.com",
-      "dob": "2023-04-18T18:30:00.000Z",
-      "gender": "male",
-      "company": "XYZ",
-      "education": "Intermediate",
-      "experence": 8,
-      "package": 1000000,
-      "id": 2
     },
     {
       "firstName": "Abhay",
@@ -52,6 +40,54 @@
       "experence": 3,
       "package": 300000,
       "id": 3
+    },
+    {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@email.com",
+      "dob": "2023-04-18T18:30:00.000Z",
+      "gender": "male",
+      "company": "fff",
+      "education": "Intermediate",
+      "experence": 8,
+      "package": 1000000,
+      "id": 4
+    },
+    {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@email.com",
+      "dob": "2023-04-18T18:30:00.000Z",
+      "gender": "male",
+      "company": "fff",
+      "education": "Intermediate",
+      "experence": 8,
+      "package": 1000000,
+      "id": 5
+    },
+    {
+      "firstName": "Aman",
+      "lastName": "Gupta",
+      "email": "vansh.gmail.com",
+      "dob": "2002-05-02T18:30:00.000Z",
+      "gender": "male",
+      "company": "Google LLC",
+      "education": "Graduate",
+      "experence": 4,
+      "package": 1200000,
+      "id": 6
+    },
+    {
+      "firstName": "Aman",
+      "lastName": "Bathum",
+      "email": "aman@gmail.com",
+      "dob": "2023-04-10T18:30:00.000Z",
+      "gender": "male",
+      "company": "MicroSoft",
+      "education": "Intermediate",
+      "experence": 4,
+      "package": 4000000,
+      "id": 7
     }
   ]
 }
